@@ -1,3 +1,9 @@
+ceph-dash (0.1-1) trusty; urgency=low
+
+  * Packaging for trusty.
+
+ -- Christopher J Holcombe <xfactor973@gmail.com>  Mon, 04 May 2015 14:00:30 -0700
+
 ceph-dash (0.1) UNRELEASED; urgency=low
 
   * Initial release: Does anyone read this?

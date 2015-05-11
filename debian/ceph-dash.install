@@ -7,3 +7,4 @@ contrib/wsgi/cephdash.wsgi /opt/ceph-dash
 contrib/apache/cephdash /etc/apache2/sites-available
 contrib/nginx/cephdash.conf /etc/nginx/sites-available
 contrib/nginx/uwsgi.ini /opt/ceph-dash
+contrib/nginx/uwsgi_params /opt/ceph-dash/uwsgi_params

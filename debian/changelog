@@ -1,3 +1,21 @@
+ceph-dash (0.1-4) trusty; urgency=low
+
+  * unix socket permissions and user/group ownership needed to match what nginx used.
+
+ -- Christopher J Holcombe <xfactor973@gmail.com>  Wed, 13 May 2015 10:58:00 -0700
+
+ceph-dash (0.1-3) trusty; urgency=low
+
+  * moving uwsgi_params file to the correct spot
+
+ -- Christopher J Holcombe <xfactor973@gmail.com>  Tue, 12 May 2015 13:46:00 -0700
+
+ceph-dash (0.1-2) trusty; urgency=low
+
+  * Nginx and uwsgi support
+
+ -- Christopher J Holcombe <xfactor973@gmail.com>  Mon, 11 May 2015 14:58:00 -0700
+
 ceph-dash (0.1-1) trusty; urgency=low
 
   * Packaging for trusty.

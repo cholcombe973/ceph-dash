@@ -1,3 +1,9 @@
+ceph-dash (0.1-5) trusty; urgency=low
+
+  * another permission adjustment
+
+ -- Christopher J Holcombe <xfactor973@gmail.com>  Wed, 13 May 2015 12:16:00 -0700
+
 ceph-dash (0.1-4) trusty; urgency=low
 
   * unix socket permissions and user/group ownership needed to match what nginx used.
